@@ -1,0 +1,9 @@
+Truncate Table Table_Nmae
+
+
+OR
+
+TRUNCATE TABLE  products
+
+
+Go
