@@ -3,3 +3,5 @@
 Source : https://phoenixnap.com/kb/import-csv-file-into-mysql
 
 Create Table in mysql : https://www.youtube.com/watch?v=WNK1unCzpds
+
+Import Excel File in MYSQL : https://www.youtube.com/watch?v=zE1qMRdgkKU&feature=youtu.be
