@@ -1,0 +1,1 @@
+CREATE TABLE FeeCategory (Sr int(11),fee_category varchar(50));

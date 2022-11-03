@@ -1,0 +1,19 @@
+INSERT INTO 'branches'('Sr','Branch name') SELECT Sr, Faculty FROM 'assignment';
+
+
+or
+
+
+INSERT INTO feecollectiontype(Sr,collectionhead,collectiondesc,br_id) SELECT Sr, FeeHead,FeeHead,sr FROM assignment;
+
+
+OR
+
+INSERT INTO entrymode(Sr,due,REVDUE,scholarship) SELECT Sr, DueAmount,WriteOffAmount,ScholarshipAmount FROM assignment;
+
+or
+
+INSERT INTO entrymode(Sr,due,REVDUE,scholarship,scholarshiprev,concession) SELECT Sr, DueAmount,WriteOffAmount,ScholarshipAmount,ReverseConcessionAmount,ConcessionAmount FROM assignment;
+
+
+note: sometime without single upar comma use.
