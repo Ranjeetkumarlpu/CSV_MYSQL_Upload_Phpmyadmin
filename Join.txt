@@ -1,0 +1,5 @@
+SELECT b.id,b.branch_name,
+f.id,f.fee_category
+FROM branch AS b
+JOIN feecategory AS f
+ON b.id=f.id;
