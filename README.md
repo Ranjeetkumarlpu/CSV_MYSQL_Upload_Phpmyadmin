@@ -1,5 +1,7 @@
 # CSV_MYSQL_Upload_Phpmyadmin
 
+Execution_time_Error Source : https://www.youtube.com/watch?v=7aFr3e9q9XQ
+
 Source : https://phoenixnap.com/kb/import-csv-file-into-mysql
 
 SQL : https://www.youtube.com/watch?v=-thOn1NKJew&list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy
